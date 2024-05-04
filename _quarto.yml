@@ -8,8 +8,6 @@ website:
   title: "Open University Base"
   navbar:
     left:
-      - href: README.md
-        text: Home
       - href: https://portal.open-models.org
         text: Portal
       - href: https://open-models.org
