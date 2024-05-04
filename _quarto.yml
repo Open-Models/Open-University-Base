@@ -5,7 +5,7 @@ project:
     - README.md
 
 website:
-  title: "Open University Base"
+  title: "Open University"
   navbar:
     left:
       - href: https://portal.open-models.org
