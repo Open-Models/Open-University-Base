@@ -14,7 +14,7 @@ the interests of the players involved.
 Independent project in the context of the University of Geneva's initiative « [Towards a policy of openness to OER: State
 of the art and perspectives](https://tecfa.unige.ch/proj/PolicyOER/) ».
 
-Following & inspired by a (failed) application on an open education mission for a university: https://abcsxyz.github.io/open-education-mission/
+Following & inspired by a (rejected) application on an [open education mission for a university](https://abcsxyz.github.io/open-education-mission/).
 
 A form of research and development linked to the [Open Portal](https://portal.open-models.org) project.
 
