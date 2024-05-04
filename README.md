@@ -18,7 +18,7 @@ Following & inspired by a (failed) application on an open education mission for 
 
 A form of research and development linked to the [Open Portal](https://portal.open-models.org) project.
 
-**To be built.**
+**To be built**
 
 ## License
 
