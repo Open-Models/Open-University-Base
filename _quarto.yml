@@ -1,0 +1,29 @@
+project:
+  type: website
+  render:
+    - "*.md"
+    - README.md
+
+website:
+  title: "Open University Base"
+  navbar:
+    left:
+      - href: README.md
+        text: Home
+      - href: https://portal.open-models.org
+        text: Portal
+      - href: https://open-models.org
+        text: Knowledge Base
+
+    tools:
+      - icon: github
+        href: https://github.com/Open-Models/Open-University-Base
+      - icon: chat-right-dots
+        href: https://github.com/Open-Models/Open-University-Base/discussions
+      - icon: cc-circle
+        href: https://creativecommons.org/publicdomain/zero/1.0/
+
+format:
+  html:
+    theme: cosmo
+    toc: true
