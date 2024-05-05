@@ -23,6 +23,7 @@ A form of research and development in relation to the project [Open Portal](http
 ## Topics
 
 (Non-exhaustive) list of the kinds of topics to be discussed:
+
 - Open models policies (at international, national and organisational level)
 - Tools
 - Education and training, maturity and awareness
