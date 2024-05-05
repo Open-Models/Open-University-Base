@@ -16,9 +16,21 @@ of the art and perspectives](https://tecfa.unige.ch/proj/PolicyOER/) ».
 
 Following & inspired by a (rejected) application on an [open education mission for a university](https://abcsxyz.github.io/open-education-mission/).
 
-A form of research and development linked to the [Open Portal](https://portal.open-models.org) project.
+A form of research and development in relation to the project [Open Portal](https://portal.open-models.org).
 
 **To be built**
+
+## Topics
+
+(Non-exhaustive) list of the kinds of topics to be discussed:
+- Open models policies (at international, national and organisational level)
+- Tools
+- Education and training, maturity and awareness
+- Funding
+- New forms of organisation: Open Source Program Offices & Open Program Offices, factories/forge (OER, software...)
+
+As many dimensions as possible to help us better understand what is already being done and what is possible around the
+idea of open university. If there's anything you can shed light on, your contribution will be appreciated.
 
 ## License
 
